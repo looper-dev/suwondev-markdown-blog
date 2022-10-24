@@ -25,10 +25,10 @@ h1 { border-bottom:1px dotted grey }
 </style>
 
 <div id="md-post">
-# Featured
+# เกี่ยวกับบล็อกนี้
 
-## [Markdown as blog](20220820-markdown-as-blog.md)
-> ![build blog site by markdown files](campo01.jpg)
+## [สร้างโดยใช้ เทคโนโลยี Markdown](20220820-markdown-as-blog.md)
+> ![build blog site by markdown files](looperdev.jpg)
 > date:2022/08/20, tags: `#markdown, #blog`
 > 
 > build blog site by markdown files in minutes.
