@@ -1,6 +1,6 @@
 -----------------------------------------------------------------------------
-github     : https://github.com/casualwriter/casual-markdown-blog
-title      : Casual-Markdown's Blog 
+github     : https://github.com/dev-suwonza123/suwondev
+title      : Suwondev-Markdown's Blog 
 subtitle   : Simple is the best
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
