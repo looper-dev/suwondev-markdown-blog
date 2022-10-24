@@ -1,7 +1,7 @@
 -----------------------------------------------------------------------------
 github     : https://github.com/dev-suwonza123/suwondev
 title      : Suwondev-Markdown's Blog 
-subtitle   : Simple is the best
+subtitle   : บล็อกโหมดมืด
 nav-group  : featured, new-3, tags, months
 nav-width  : 320px
 css-header : background:linear-gradient(to bottom right, #06c, #fc0); color:white
